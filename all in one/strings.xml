@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALL in ONE app</string>
+    <string-array name="apps">
+        <item>"None"</item>
+        <item>"JioCall"</item>
+        <item>"whatsApp</item>
+        <item>"IMO"</item>
+        <item>"facebook"</item>
+        <item>"instagram"</item>
+        <item>"zoom"</item>
+        <item>"google classroom"</item>
+        <item>"google meet"</item>
+    </string-array>
+</resources>
